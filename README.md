@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bhoopesh M</h1>
 <h3 align="center">A passionate software developer from Chennai, India</h3>
 
-- 📫 How to reach me **iambhoopeshm@gmail.com**
+- 📫 How to reach me **bhoopesh459@gmail.com**
 
 <p align="left">
 </p>
