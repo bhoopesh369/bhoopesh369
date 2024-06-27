@@ -21,6 +21,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bhoopesh369/bhoopesh369/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/bhoopesh369/bhoopesh369/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ###
